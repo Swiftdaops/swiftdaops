@@ -14,8 +14,8 @@
 ## 🚀 Featured Work
 
 ### 🛍 The Steeze Store
-A campus-focused fashion store with WhatsApp checkout, clean UI, and an admin dashboard.
-- **Tech:** React, Next.js, TailwindCSS, Node.js, MongoDB, Cloudinary
+A campus-focused fashion store with WhatsApp checkout, clean UI, and an admin dashboard.  
+- **Tech:** React, Next.js, TailwindCSS, Node.js, MongoDB, Cloudinary  
 - **Code:** [Frontend](https://github.com/Swiftdaops/thesteezestorefrontend) • [Backend](https://github.com/Swiftdaops/thesteezestoreserver1)
 
 ---
@@ -29,7 +29,7 @@ This was a **collaborative project** built with **Next.js**, where we integrated
 ---
 
 ### 🛒 EBOY (in progress)
-Local shopping & delivery platform with role-based dashboards and real-time flows.
+Local shopping & delivery platform with role-based dashboards and real-time flows.  
 - **Tech:** React, Next.js, Supabase, Node.js, TailwindCSS
 
 <br/>
@@ -42,7 +42,7 @@ Local shopping & delivery platform with role-based dashboards and real-time flow
 | React, Next.js, TailwindCSS, ShadCN/UI, Framer Motion | Node.js, Express.js, Supabase, MongoDB | Cloudinary, Render, Git, Vite | Figma, basic product design workflow |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,supabase,mongodb,tailwind,cloudinary,git,figma&perline=9" alt="Tech icons"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,supabase,mongodb,tailwind,cloudinary,git,figma,js,css&perline=10" alt="Tech icons"/>
 </p>
 
 <br/>
@@ -67,4 +67,6 @@ Local shopping & delivery platform with role-based dashboards and real-time flow
   <img src="https://img.shields.io/badge/React-Next.js-111?style=flat&logo=react" alt="">
   <img src="https://img.shields.io/badge/Node-Supabase-111?style=flat&logo=node.js" alt="">
   <img src="https://img.shields.io/badge/MongoDB-Cloudinary-111?style=flat&logo=mongodb" alt="">
+  <img src="https://img.shields.io/badge/JavaScript-ES6-111?style=flat&logo=javascript" alt="">
+  <img src="https://img.shields.io/badge/CSS3-Styling-111?style=flat&logo=css3" alt="">
 </p>
