@@ -1,52 +1,68 @@
-<h1 align="center">👋 Hi, I’m Obi — Web Developer & Product Builder</h1>
-
+<!-- Profile Header -->
 <p align="center">
-  <b>Full-Stack Developer | React · Next.js · Node.js · Supabase</b><br/>
-  Building digital products that solve real problems and look great doing it.
+  <img src="https://img.shields.io/badge/Obi%20Tobechukwu%20Favour-%40swiftdaops-111?style=for-the-badge" alt="Obi Tobechukwu Favour">
 </p>
 
----
+<h1 align="center">Product-First Web Developer</h1>
+<p align="center">
+  Building useful, fast, and clean products with React, Next.js, Node.js, Supabase & MongoDB.
+</p>
 
-### 🚀 Featured Projects
+<br/>
 
-#### 🛍 The Steeze Store
-> A campus-focused fashion store with WhatsApp checkout, admin dashboard, and MongoDB backend.  
-> **Tech:** React, Next.js, TailwindCSS, MongoDB, Node.js, Cloudinary  
-> 🔗 [Frontend](https://github.com/Swiftdaops/thesteezestorefrontend) | [Backend](https://github.com/Swiftdaops/thesteezestoreserver1)
+<!-- Featured Projects -->
+## 🚀 Featured Work
 
-#### 💼 Digitanotion Systems  
-> A learning and business platform helping students and startups master full-stack development and digital innovation.  
-> **Focus:** Full-stack training, product development, and digital skills.
-
-#### 🛒 EBOY (Work in Progress)  
-> Full-stack local shopping and delivery app with real-time updates, role-based dashboards, and proof-of-payment uploads.  
-> **Tech:** React, Next.js, Supabase, Node.js, TailwindCSS
+### 🛍 The Steeze Store
+A campus-focused fashion store with WhatsApp checkout, clean UI, and an admin dashboard.
+- **Tech:** React, Next.js, TailwindCSS, Node.js, MongoDB, Cloudinary
+- **Code:** [Frontend](https://github.com/Swiftdaops/thesteezestorefrontend) • [Backend](https://github.com/Swiftdaops/thesteezestoreserver1)
 
 ---
 
-### 🧰 Tech Stack
-
-| Frontend | Backend | Tools |
-|:--|:--|:--|
-| React · Next.js · TailwindCSS · ShadCN/UI · Framer Motion | Node.js · Express.js · Supabase · MongoDB | Cloudinary · Render · Git · Figma |
+### 💼 Digitanotion Systems
+A learning & product studio helping students and startups build full-stack projects that actually ship.
+- **Focus:** Full-stack training, product delivery, UI/UX structure, real deployment workflows
 
 ---
 
-### 🌱 Currently Improving
-- Product-first design thinking  
-- Building scalable backend systems  
-- Figma & product design fundamentals  
+### 🛒 EBOY (in progress)
+Local shopping & delivery platform with role-based dashboards and real-time flows.
+- **Tech:** React, Next.js, Supabase, Node.js, TailwindCSS
 
----
+<br/>
 
+<!-- Stack -->
+## 🧰 Core Stack
+
+| Frontend | Backend | Infra & Tools | Design |
+|---|---|---|---|
+| React, Next.js, TailwindCSS, ShadCN/UI, Framer Motion | Node.js, Express.js, Supabase, MongoDB | Cloudinary, Render, Git, Vite | Figma, basic product design workflow |
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,supabase,mongodb,tailwind,cloudinary,git,figma&perline=9" alt="Tech icons"/>
+</p>
+
+<br/>
+
+<!-- Principles -->
+## ✅ What I Optimize For
+- Clear, **product-first UX**
+- **Fast** performance & sensible API design
+- Simple, maintainable code that scales
+- Real deployments, not demos
+
+<br/>
+
+<!-- CTA -->
 <h3 align="center">
-💬 Feel free to <a href="https://linkedin.com/in/swiftdaops" target="_blank">reach out on LinkedIn</a><br/>
-if you have a product idea or project you’d like to discuss.
+  Have a product in mind?  
+  <a href="https://linkedin.com/in/swiftdaops" target="_blank">Feel free to reach out on LinkedIn</a>.
 </h3>
 
----
-
+<!-- Subtle footer line -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,supabase,mongodb,tailwind,figma,cloudinary,git" />
+  <img src="https://img.shields.io/badge/React-Next.js-111?style=flat&logo=react" alt="">
+  <img src="https://img.shields.io/badge/Node-Supabase-111?style=flat&logo=node.js" alt="">
+  <img src="https://img.shields.io/badge/MongoDB-Cloudinary-111?style=flat&logo=mongodb" alt="">
 </p>
-
