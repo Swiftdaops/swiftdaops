@@ -21,8 +21,10 @@ A campus-focused fashion store with WhatsApp checkout, clean UI, and an admin da
 ---
 
 ### 💼 Digitanotion Systems
-A learning & product studio helping students and startups build full-stack projects that actually ship.
-- **Focus:** Full-stack training, product delivery, UI/UX structure, real deployment workflows
+A learning & product studio helping students and startups build full-stack projects that actually ship.  
+This was a **collaborative project** built with **Next.js**, where we integrated **WhatsApp pre-fill links** and the **Product Messaging API** to create a more personal and direct way for businesses to connect with clients.  
+- **Focus:** Full-stack training, product delivery, UI/UX structure, real deployment workflows  
+- **Code:** [GitHub Repository](https://github.com/Boscomunich/digitanotion-web)
 
 ---
 
