@@ -11,16 +11,16 @@
 <br/>
 
 <!-- Featured Projects -->
-## 🚀 Featured Work
+##  Featured Work
 
-### 🛍 The Steeze Store
+### The Steeze Store
 A campus-focused fashion store with WhatsApp checkout, clean UI, and an admin dashboard.  
 - **Tech:** React, Next.js, TailwindCSS, Node.js, MongoDB, Cloudinary  
 - **Code:** [Frontend](https://github.com/Swiftdaops/thesteezestorefrontend) • [Backend](https://github.com/Swiftdaops/thesteezestoreserver1)
 
 ---
 
-### 💼 Digitanotion Systems
+### Digitanotion Systems
 A learning & product studio helping students and startups build full-stack projects that actually ship.  
 This was a **collaborative project** built with **Next.js**, where we integrated **WhatsApp pre-fill links** and the **Product Messaging API** to create a more personal and direct way for businesses to connect with clients.  
 - **Focus:** Full-stack training, product delivery, UI/UX structure, real deployment workflows  
@@ -35,7 +35,7 @@ Local shopping & delivery platform with role-based dashboards and real-time flow
 <br/>
 
 <!-- Stack -->
-## 🧰 Core Stack
+##  Core Stack
 
 | Frontend | Backend | Infra & Tools | Design |
 |---|---|---|---|
@@ -48,7 +48,7 @@ Local shopping & delivery platform with role-based dashboards and real-time flow
 <br/>
 
 <!-- Principles -->
-## ✅ What I Optimize For
+##  What I Optimize For
 - Clear, **product-first UX**
 - **Fast** performance & sensible API design
 - Simple, maintainable code that scales
