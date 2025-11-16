@@ -28,7 +28,7 @@ This was a **collaborative project** built with **Next.js**, where we integrated
 
 ---
 
-### 🛒 EBOY (in progress)
+###  EBOY (in progress)
 Local shopping & delivery platform with role-based dashboards and real-time flows.  
 - **Tech:** React, Next.js, Supabase, Node.js, TailwindCSS
 
